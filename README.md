@@ -1,3 +1,3 @@
 # sanjeev-calc
 my first web calculator
-Author - sanjeev gupta
+Author - sanjeev gupta (nit mgh)
